@@ -1,2 +1,4 @@
-# CPlusPlus
-A collection of project coded primarily using C++.
+# C++
+
+Content Descriptions:
+(none yet)
