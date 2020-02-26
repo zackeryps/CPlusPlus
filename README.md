@@ -2,12 +2,12 @@
 
 Content Descriptions.
 
-CppStdLib_MakefileUnitTesting: (sophomore assignment)
+CppStdLib_MakefileUnitTesting: (sophomore assignment, 2017)
 
-- Unit Testing via Makefile macros
+- Testing implemented via Makefile macros
 
 - Use of the Standard Template Library
 
-CppTutorTips: (personal project)
+CppTutorTips: (personal project, 2017)
 
 - Common pitfalls encountered by freshman Computer Science students
