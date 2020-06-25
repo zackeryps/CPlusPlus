@@ -2,7 +2,7 @@
 
 Project Name: (motivation, created)
 
-- Content descriptions.
+- Content description.
 
 CppStdLib_MakefileUnitTesting: (assignment, 2017)
 
